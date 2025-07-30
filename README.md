@@ -5,7 +5,7 @@ This is only for educational purpose do not misuse it
 [Kali NetHunter](https://www.kali.org/get-kali/#kali-mobile)) is a Mobile Penetration Testing Platform, and it allows for maximum flexibility with no commitment.
 
 _For use on **unmodified stock Android phones without voiding the warranty**!_
-
+the maker R.k.s-ahacker
 ## Screenshot:
 
 ![alt text](NH-Rootless-KeX.png)
