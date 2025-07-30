@@ -1,4 +1,4 @@
-# INSTALL-KliNET-HUNTER
+# INSTALL-KALINET-HUNTER
 This is only for educational purpose do not misuse it 
 ## Kali-Nethunter [non-root]:
 
