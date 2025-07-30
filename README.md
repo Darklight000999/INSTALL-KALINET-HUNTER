@@ -99,3 +99,5 @@ _Note: If you ran KeX in the background (`&`) **without having set a password**,
 To use KeX, start the KeX client, enter your password and click connect.
 
 _Note: For a better viewing experience, enter a custom resolution under "Advanced Settings" in the KeX Client_
+
+![Banner](https://github.com/Darklight000999/Ziphisher-install/blob/3e55c21a0593ebb1bd06d2b4fb989f3d615d3a02/20250730_110855.png)
