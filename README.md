@@ -99,6 +99,8 @@ _Note: If you ran KeX in the background (`&`) **without having set a password**,
 To use KeX, start the KeX client, enter your password and click connect.
 
 _Note: For a better viewing experience, enter a custom resolution under "Advanced Settings" in the KeX Client_
+
+## Connect with us on:
 <!-- 🌟 Optional Banner - यहां अपना बैनर लिंक लगाएं -->
 <!-- ![Banner](https://your-banner-image-link.com/banner.jpg) -->
 
