@@ -99,5 +99,25 @@ _Note: If you ran KeX in the background (`&`) **without having set a password**,
 To use KeX, start the KeX client, enter your password and click connect.
 
 _Note: For a better viewing experience, enter a custom resolution under "Advanced Settings" in the KeX Client_
+<p align="center">
+  <a href="https://www.instagram.com/https://www.instagram.com/darklight000999_?igsh=cmEwN3htaTRodzl3">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/darklight000999_">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/http://t.me/darklight000999">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/https://www.facebook.com/share/18ffsmfPNX/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/https://youtube.com/@mr_br_hacker_33?si=exJotnn8Ak5WKv0jelname">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/https://github.com/Darklight000999">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ![Banner](https://github.com/Darklight000999/Ziphisher-install/blob/3e55c21a0593ebb1bd06d2b4fb989f3d615d3a02/20250730_110855.png)
